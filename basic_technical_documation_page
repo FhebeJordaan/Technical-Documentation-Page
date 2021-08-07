@@ -1,0 +1,128 @@
+<nav id="navbar">
+  <header>Birds</header>
+  <ul>
+    <li> <a class="nav-link" href="#Owl">Owl</a></li>
+    <li> <a class="nav-link" href="#Duck">Duck</a></li>
+    <li> <a class="nav-link" href="#Eagle">Eagle</a></li>
+    <li> <a class="nav-link" href="#Raven">Raven</a></li>
+    <li> <a class="nav-link" href="#Crow">Crow</a></li>
+    <li> <a class="nav-link" href="#Vulture">Vulture</a></li>
+  </ul>
+</nav>
+
+<main id="main-doc">
+  
+  <section class="main-section" id="Owl">
+    <header>Owl</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+
+  <section class="main-section" id="Duck">
+    <header>Duck</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+
+  <section class="main-section" id="Eagle">
+    <header>Eagle</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+
+  <section class="main-section" id="Raven">
+    <header>Raven</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li> Lorem ipsum dolor sit amet.</li>
+      <li> Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+
+  <section class="main-section" id="Crow">
+    <header>Crow</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li> Lorem ipsum dolor sit amet.</li>
+      <li> Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+
+  <section class="main-section" id="Vulture">
+    <header>Vulture</header>
+    <p>
+      <code>"Lorem, ipsum."</code>
+    </p>
+
+    <p>
+    <ol>
+      <li>Lorem ipsum dolor sit amet.</li>
+      <li>Lorem, ipsum.</li>
+      <ol>
+        <li>Lorem.</li>
+        <li>Lorem, ipsum.</li>
+      </ol>
+    </ol>
+    </p>
+    <br>
+  </section>
+</main>
